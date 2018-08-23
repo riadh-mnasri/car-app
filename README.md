@@ -61,7 +61,7 @@ okta:
 
 For the client, set the `issuer` and copy the `clientId` into `client/src/app/app.module.ts`.
 
-©typescript
+```typescript
 const config = {
   issuer: 'https://{yourOktaDomain}.com/oauth2/default',
   redirectUri: window.location.origin + '/implicit/callback',
@@ -73,7 +73,7 @@ const config = {
 
 Free used port :
 
-```bash
+```jshelllanguage
 sudo kill $(sudo lsof -t -i:4200)
 ```
 
