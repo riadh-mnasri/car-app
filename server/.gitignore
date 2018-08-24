@@ -1,5 +1,5 @@
 ### IntelliJ Files
-.idea
+.idea/
 ### Maven
 /target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -26,3 +26,6 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+### Mac OS Files
+.DS_Store

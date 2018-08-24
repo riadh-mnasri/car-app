@@ -1,6 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### IntelliJ Files
-.idea
+.idea/
 ### Java template
 # Compiled class file
 *.class
@@ -34,3 +34,5 @@ buildNumber.properties
 # Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
 !/.mvn/wrapper/maven-wrapper.jar
 
+### Mac OS Files
+.DS_Store
