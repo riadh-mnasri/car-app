@@ -1,3 +1,6 @@
+### IntelliJ Files
+.idea
+### Maven
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
